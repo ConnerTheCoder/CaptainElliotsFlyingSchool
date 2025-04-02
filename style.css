@@ -31,4 +31,6 @@ ul{
     list-style-position: inside;
     text-align: center;
     line-height: 24px;
+      display: table;
+          margin: 0 auto;
 }
