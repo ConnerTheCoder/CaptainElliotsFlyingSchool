@@ -29,7 +29,6 @@ ul{
     font-size: 140%;
     color: #4c5052;
     list-style-position: inside;
-    /*text-align: center;*/
     line-height: 24px;
     display: table;
     margin: 0 auto;
@@ -39,5 +38,6 @@ ul{
 .bulletlist {
     border: solid 1px #000000;
     padding-top: -10px;
+    text-align:right;
 }
     
