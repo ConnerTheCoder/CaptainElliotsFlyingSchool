@@ -36,8 +36,9 @@ ul{
 }
 
 .bulletlist {
-    border: solid 1px #1356F2;
+    border: solid 1px #56F200;
     padding-top: -10px;
+    border-spacing: 0px;
     text-align:right;
 }
     
