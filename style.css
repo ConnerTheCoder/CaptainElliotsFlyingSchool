@@ -16,17 +16,17 @@
 }
 
 p{
-    font-size: 140%;
+    font-size: 100%;
     color: #4c5052;
     text-align: center;
 }
 h2{
-    font-size: 160%;
+    font-size: 120%;
     text-align: center;
     color:#4c5052;
 }
 ul{
-    font-size: 140%;
+    font-size: 100%;
     color: #4c5052;
     list-style-position: inside;
     line-height: 24px;
