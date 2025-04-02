@@ -29,7 +29,7 @@ ul{
     font-size: 140%;
     color: #4c5052;
     list-style-position: inside;
-    text-align: center;
+    /*text-align: center;*/
     line-height: 24px;
     display: table;
     margin: 0 auto;
